@@ -1,7 +1,8 @@
 import React, { Fragment } from 'react';
 import Spinner from './Spinner.gif';
 
-const Spinner = () => (
+// eslint-disable-next-line
+const spinner = () => (
   <Fragment>
     <img
       src='Spinner'
